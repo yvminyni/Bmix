@@ -30,16 +30,14 @@ For more PyMC installation details, please follow the [[installation guide]](htt
 If you use this code, please consider citing the following paper:
 
 	@article{hyj23,  
- <!--Huang Yu-Jyun 2023? I guess-->
 	  journal        = {Submitted}  
-   <!--{Journal of Hydrology},-->
 	  title          = {Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions},
 	  author         = {Yu-Jyun Huang, Yi-Yun Lee, Hui-Ling Chang, Charlotte Wang, Jing-Shan Hong, Chuhsing Kate Hsiao}
 	  year           = {2023},
 	  volume         = {-},
 	  pages          = {-}
 	}
-
+ <!--Huang Yu-Jyun 2023? I guess-->    <!--{Journal of Hydrology},-->
 ### License
 
-[MIT License](https://github.com/yvminyni/Bmix/blob/main/LICENSE)https://github.com/yvminyni/Bmix/blob/main/LICENSE)
+[[MIT License]](https://github.com/yvminyni/Bmix/blob/main/LICENSE)https://github.com/yvminyni/Bmix/blob/main/LICENSE)
