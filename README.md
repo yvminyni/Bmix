@@ -8,7 +8,7 @@ It is recommended that the code be opened and viewed using the Chrome browser.
 
 Additionally, it is strongly recommended to open and try it on Google Colab: [[Colab link](https://colab.research.google.com/drive/1gVprj2XB4SsrigfRp5uobZmKFVx5VNOa?usp=drive_link)]
 
-The code provides probability density for the predicted weather variable. For more details, please see [Bmix_Code](https://github.com/yvminyni/Bmix/blob/main/1130_Bmix_Code.ipynb).
+The code provides probability density for the predicted weather variable. For more details, please see [[Bmix_Code](https://github.com/yvminyni/Bmix/blob/main/1130_Bmix_Code.ipynb)].
 
 
 ### Requirements
@@ -25,7 +25,7 @@ arviz     : 0.15.1
 pymc      : 5.7.2
 ```
 
-For more PyMC installation details, please follow the [[installation guide]](https://www.pymc.io/projects/docs/en/stable/installation.html).
+For more PyMC installation details, please follow the [[installation guide](https://www.pymc.io/projects/docs/en/stable/installation.html)].
 
 
 ### Citation
@@ -42,4 +42,4 @@ If you use this code, please consider citing the following paper:
  <!--Huang Yu-Jyun 2023? I guess-->    <!--{Journal of Hydrology},-->
 ### License
 
-[[MIT License]](https://github.com/yvminyni/Bmix/blob/main/LICENSE)https://github.com/yvminyni/Bmix/blob/main/LICENSE)
+[[MIT License](https://github.com/yvminyni/Bmix/blob/main/LICENSE)]
