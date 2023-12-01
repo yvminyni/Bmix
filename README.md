@@ -10,6 +10,7 @@ Additionally, it is strongly recommended to open and try it on Google Colab: [[C
 
 The code provides probability density for the predicted weather variable. For more details, please see [Bmix_Code](https://github.com/yvminyni/Bmix/blob/main/1130_Bmix_Code.ipynb).
 
+
 ### Requirements
 ```
 Python 3.8.x or greater. (Tested with 3.10.12)
@@ -25,6 +26,7 @@ pymc      : 5.7.2
 ```
 
 For more PyMC installation details, please follow the [[installation guide]](https://www.pymc.io/projects/docs/en/stable/installation.html).
+
 
 ### Citation
 If you use this code, please consider citing the following paper:
