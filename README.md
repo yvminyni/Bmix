@@ -16,13 +16,13 @@ The code provides probability density for the predicted weather variable. For mo
 Python 3.8.x or greater. (Tested with 3.10.12)
 IPython (Tested with 7.34.0)
 
-pandas    : 1.5.3
-scipy     : 1.11.3
-matplotlib: 3.7.1
-seaborn   : 0.12.2
-numpy     : 1.23.5
-arviz     : 0.15.1
 pymc      : 5.7.2
+arviz     : 0.15.1
+pandas    : 1.5.3
+scipy     : 1.11.4
+numpy     : 1.23.5
+matplotlib: 3.7.1
+
 ```
 
 For more PyMC installation details, please follow the [installation guide](https://www.pymc.io/projects/docs/en/stable/installation.html).
