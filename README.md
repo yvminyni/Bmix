@@ -8,7 +8,7 @@ It is recommended that the code be opened and viewed using the Chrome browser.
 
 Additionally, it is strongly recommended to open and try it on Google Colab: [Colab link](https://colab.research.google.com/drive/1gVprj2XB4SsrigfRp5uobZmKFVx5VNOa?usp=drive_link)
 
-The code provides probability density for the predicted weather variable. For more details, please see [Bmix_Code](https://github.com/yvminyni/Bmix/blob/main/1130_Bmix_Code.ipynb).
+The code provides probability density for the predicted weather variable. For more details, please see [Bmix_Code](https://github.com/yvminyni/Bmix/blob/main/Bmix_Code_notebook.ipynb).
 
 
 ### Requirements
