@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a PyMC implementation of our work *Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions* [Submitted](link).
+This is a PyMC implementation of our work on *Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions* [Submitted](link).
 
 It is recommended that the code be opened and viewed using the Chrome browser.
 
