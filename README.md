@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a PyMC implementation of our work on *Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions* [Submitted](link).
+This is a PyMC implementation of our work on *Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions* [Paper](https://doi.org/10.1016/j.jhydrol.2024.131176).
 
 It is recommended that the code be opened and viewed using the Chrome browser.
 
@@ -29,17 +29,18 @@ For more PyMC installation details, please follow the [installation guide](https
 
 
 ### Citation
-If you use this code, please consider citing the following paper:
+If you use this code, please consider citing the following [paper](https://doi.org/10.1016/j.jhydrol.2024.131176):
 
 	@article{hyj23,  
-	  journal        = {Submitted}  
-	  title          = {Bayesian typhoon precipitation prediction with a mixture of ensemble forecast-based and historical event-based prediction functions},
-	  author         = {Yu-Jyun Huang, Yi-Yun Lee, Hui-Ling Chang, Charlotte Wang, Jing-Shan Hong and Chuhsing Kate Hsiao}
-	  year           = {2023},
+	  journal        = {Journal of Hydrology}  
+	  title          = {Bayesian Typhoon Precipitation Prediction with a Mixture of Ensemble Forecast-based and Historical Event-based Prediction Functions},
+	  author         = {Yu-Jyun Huang, Yi-Yun Lee, Hui-Ling Chang, Charlotte Wang, Jing-Shan Hong, & Chuhsing Kate Hsiao}
+	  year           = {2024},
 	  volume         = {-},
 	  pages          = {-}
 	}
- <!--Huang Yu-Jyun 2023? I guess-->    <!--{Journal of Hydrology},-->
+ <!--Huang Yu-Jyun 2024 -->    <!--{Journal of Hydrology},-->
+
 ### License
 
 [MIT License](https://github.com/yvminyni/Bmix/blob/main/LICENSE)
