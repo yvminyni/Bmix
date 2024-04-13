@@ -36,8 +36,7 @@ If you use this code, please consider citing the following [paper](https://doi.o
 	  title          = {Bayesian Typhoon Precipitation Prediction with a Mixture of Ensemble Forecast-based and Historical Event-based Prediction Functions},
 	  author         = {Yu-Jyun Huang, Yi-Yun Lee, Hui-Ling Chang, Charlotte Wang, Jing-Shan Hong, & Chuhsing Kate Hsiao}
 	  year           = {2024},
-	  volume         = {-},
-	  pages          = {-}
+	  volume         = {635}
 	}
  <!--Huang Yu-Jyun 2024 -->    <!--{Journal of Hydrology},-->
 
